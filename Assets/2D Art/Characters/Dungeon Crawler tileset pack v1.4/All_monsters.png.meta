@@ -1,0 +1,3445 @@
+fileFormatVersion: 2
+guid: 397ad5e8cd9db3944af9284e6d129883
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 540447402597393946
+    second: All_monsters_0
+  - first:
+      213: 3132044711975325520
+    second: All_monsters_1
+  - first:
+      213: -1885580159915894089
+    second: All_monsters_2
+  - first:
+      213: 5005673655452636417
+    second: All_monsters_3
+  - first:
+      213: -1154484093026828839
+    second: All_monsters_4
+  - first:
+      213: -8305677196284866
+    second: All_monsters_5
+  - first:
+      213: 3772578298264598748
+    second: All_monsters_6
+  - first:
+      213: -6845930718004317362
+    second: All_monsters_7
+  - first:
+      213: -1688228508658274391
+    second: All_monsters_8
+  - first:
+      213: -8968986085810514078
+    second: All_monsters_9
+  - first:
+      213: 3361189495293502372
+    second: All_monsters_10
+  - first:
+      213: 8618985348587194887
+    second: All_monsters_11
+  - first:
+      213: 8799282621753178098
+    second: All_monsters_12
+  - first:
+      213: 1588187978137892731
+    second: All_monsters_13
+  - first:
+      213: 2908776781923623127
+    second: All_monsters_14
+  - first:
+      213: 1672486320271684749
+    second: All_monsters_15
+  - first:
+      213: 4478447462092959005
+    second: All_monsters_16
+  - first:
+      213: 4255620432943786550
+    second: All_monsters_17
+  - first:
+      213: -5203034419070730819
+    second: All_monsters_18
+  - first:
+      213: -5710348666475289887
+    second: All_monsters_19
+  - first:
+      213: 8954396204893780659
+    second: All_monsters_20
+  - first:
+      213: 1047086959216651246
+    second: All_monsters_21
+  - first:
+      213: -2799068337063276196
+    second: All_monsters_22
+  - first:
+      213: -7890117247260946349
+    second: All_monsters_23
+  - first:
+      213: 4833620435906064027
+    second: All_monsters_24
+  - first:
+      213: 6049683518717755636
+    second: All_monsters_25
+  - first:
+      213: -1671223275086918156
+    second: All_monsters_26
+  - first:
+      213: 4765862129113936163
+    second: All_monsters_27
+  - first:
+      213: -7536707383204490545
+    second: All_monsters_28
+  - first:
+      213: -8404029627069213178
+    second: All_monsters_29
+  - first:
+      213: -2771288532871597262
+    second: All_monsters_30
+  - first:
+      213: -3988863509658507478
+    second: All_monsters_31
+  - first:
+      213: 2489835323016305040
+    second: All_monsters_32
+  - first:
+      213: -6918140482149397503
+    second: All_monsters_33
+  - first:
+      213: 7173669708457247329
+    second: All_monsters_34
+  - first:
+      213: 1767040515842817662
+    second: All_monsters_35
+  - first:
+      213: 7516087267188117868
+    second: All_monsters_36
+  - first:
+      213: 5144081276103891872
+    second: All_monsters_37
+  - first:
+      213: 453662996108519423
+    second: All_monsters_38
+  - first:
+      213: -7864287173502725219
+    second: All_monsters_39
+  - first:
+      213: 3392455455562523666
+    second: All_monsters_40
+  - first:
+      213: 4310862238029564029
+    second: All_monsters_41
+  - first:
+      213: -1735129240661604764
+    second: All_monsters_42
+  - first:
+      213: 1216004544396396909
+    second: All_monsters_43
+  - first:
+      213: 142523365667241697
+    second: All_monsters_44
+  - first:
+      213: 6734090764795629289
+    second: All_monsters_45
+  - first:
+      213: 4514234581112993506
+    second: All_monsters_46
+  - first:
+      213: -8427514850150312820
+    second: All_monsters_47
+  - first:
+      213: 4938201100793291750
+    second: All_monsters_48
+  - first:
+      213: 5907896829996464303
+    second: All_monsters_49
+  - first:
+      213: -853087917771099676
+    second: All_monsters_50
+  - first:
+      213: -6080454217377811725
+    second: All_monsters_51
+  - first:
+      213: 3941972919295664184
+    second: All_monsters_52
+  - first:
+      213: -3635225812805071450
+    second: All_monsters_53
+  - first:
+      213: -797220773202494208
+    second: All_monsters_54
+  - first:
+      213: 5475786784228704433
+    second: All_monsters_55
+  - first:
+      213: 5141597592467189914
+    second: All_monsters_56
+  - first:
+      213: 1803931256912038071
+    second: All_monsters_57
+  - first:
+      213: -8555879701881899046
+    second: All_monsters_58
+  - first:
+      213: -3082187037461300787
+    second: All_monsters_59
+  - first:
+      213: 1049320529294089477
+    second: All_monsters_60
+  - first:
+      213: -7179248874136986630
+    second: All_monsters_61
+  - first:
+      213: 8931309599871259074
+    second: All_monsters_62
+  - first:
+      213: -426661201562002372
+    second: All_monsters_63
+  - first:
+      213: 8089675680655896710
+    second: All_monsters_64
+  - first:
+      213: -2496398191629389148
+    second: All_monsters_65
+  - first:
+      213: -4334510113917762369
+    second: All_monsters_66
+  - first:
+      213: -1282181997962940473
+    second: All_monsters_67
+  - first:
+      213: -7202015787544098392
+    second: All_monsters_68
+  - first:
+      213: -3456720592445335561
+    second: All_monsters_69
+  - first:
+      213: 9001914768814898819
+    second: All_monsters_70
+  - first:
+      213: -2996201242346414683
+    second: All_monsters_71
+  - first:
+      213: -6096227314255526784
+    second: All_monsters_72
+  - first:
+      213: 8267475152674640531
+    second: All_monsters_73
+  - first:
+      213: -642895617302989307
+    second: All_monsters_74
+  - first:
+      213: 7206536562726660924
+    second: All_monsters_75
+  - first:
+      213: -4157609374846822365
+    second: All_monsters_76
+  - first:
+      213: 296318134764902434
+    second: All_monsters_77
+  - first:
+      213: 2755226166924712043
+    second: All_monsters_78
+  - first:
+      213: 6284867993908584817
+    second: All_monsters_79
+  - first:
+      213: -9180272238750207927
+    second: All_monsters_80
+  - first:
+      213: 4473677872716289957
+    second: All_monsters_81
+  - first:
+      213: -7934881642334825699
+    second: All_monsters_82
+  - first:
+      213: 2006714749183638868
+    second: All_monsters_83
+  - first:
+      213: -7178028228652633916
+    second: All_monsters_84
+  - first:
+      213: -8949244124291627393
+    second: All_monsters_85
+  - first:
+      213: 5878402061960480164
+    second: All_monsters_86
+  - first:
+      213: -8501531171299108635
+    second: All_monsters_87
+  - first:
+      213: 6309732527588961178
+    second: All_monsters_88
+  - first:
+      213: -8601780694740998422
+    second: All_monsters_89
+  - first:
+      213: -4024103828241785152
+    second: All_monsters_90
+  - first:
+      213: -3515260344415287276
+    second: All_monsters_91
+  - first:
+      213: 1284277762161009075
+    second: All_monsters_92
+  - first:
+      213: -5733180238632687942
+    second: All_monsters_93
+  - first:
+      213: -365903978903974989
+    second: All_monsters_94
+  - first:
+      213: -8629851681155418380
+    second: All_monsters_95
+  - first:
+      213: 2788238487325768260
+    second: All_monsters_96
+  - first:
+      213: -215339937887786718
+    second: All_monsters_97
+  - first:
+      213: -7200088879962335618
+    second: All_monsters_98
+  - first:
+      213: 7210469068670413845
+    second: All_monsters_99
+  - first:
+      213: -7551319873797040604
+    second: All_monsters_100
+  - first:
+      213: -8719481659574158852
+    second: All_monsters_101
+  - first:
+      213: 1817289778092465904
+    second: All_monsters_102
+  - first:
+      213: 6788553616374081317
+    second: All_monsters_103
+  - first:
+      213: 6170321451087725389
+    second: All_monsters_104
+  - first:
+      213: 4299313331159027546
+    second: All_monsters_105
+  - first:
+      213: 4342951851444160693
+    second: All_monsters_106
+  - first:
+      213: -7025542189153753185
+    second: All_monsters_107
+  - first:
+      213: 4762315597626034486
+    second: All_monsters_108
+  - first:
+      213: 2088880173790765875
+    second: All_monsters_109
+  - first:
+      213: -9187528212249152900
+    second: All_monsters_110
+  - first:
+      213: 2658597151587135366
+    second: All_monsters_111
+  - first:
+      213: -8358430435589319847
+    second: All_monsters_112
+  - first:
+      213: -8614402323060854562
+    second: All_monsters_113
+  - first:
+      213: -1709906316748373755
+    second: All_monsters_114
+  - first:
+      213: -1662574089148180651
+    second: All_monsters_115
+  - first:
+      213: 6505296251248487819
+    second: All_monsters_116
+  - first:
+      213: 969956262339613027
+    second: All_monsters_117
+  - first:
+      213: -4406493271337248933
+    second: All_monsters_118
+  - first:
+      213: -6218227189371215980
+    second: All_monsters_119
+  - first:
+      213: 182988369258739018
+    second: All_monsters_120
+  - first:
+      213: -2189229718405900633
+    second: All_monsters_121
+  - first:
+      213: -8006608230372289659
+    second: All_monsters_122
+  - first:
+      213: -3597034048868069971
+    second: All_monsters_123
+  - first:
+      213: -6326336687056047634
+    second: All_monsters_124
+  - first:
+      213: -55475687430346818
+    second: All_monsters_125
+  - first:
+      213: -5322645469531221544
+    second: All_monsters_126
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: All_monsters_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1279
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16a99b9c0e008700800000000000000
+      internalID: 540447402597393946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1215
+        width: 42
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f0eed3212477b20800000000000000
+      internalID: 3132044711975325520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1215
+        width: 42
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba50b4b5d215d5e0800000000000000
+      internalID: -1885580159915894089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1279
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10519ce1ba9b77540800000000000000
+      internalID: 5005673655452636417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1279
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddfb4885d27affe0800000000000000
+      internalID: -1154484093026828839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1279
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ca815d70e72eff0800000000000000
+      internalID: -8305677196284866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1215
+        width: 42
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8b86b69f3ea5430800000000000000
+      internalID: 3772578298264598748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_7
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1215
+        width: 42
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43fa64884e5ef0a0800000000000000
+      internalID: -6845930718004317362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1279
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af6cb1bd153298e0800000000000000
+      internalID: -1688228508658274391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_9
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1279
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267d7d7bca2c78380800000000000000
+      internalID: -8968986085810514078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1215
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a36eb1a90855ae20800000000000000
+      internalID: 3361189495293502372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1215
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a06da5289cc9770800000000000000
+      internalID: 8618985348587194887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1215
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7bdd38ce45d1a70800000000000000
+      internalID: 8799282621753178098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_13
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1215
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7774713d806a0610800000000000000
+      internalID: 1588187978137892731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1215
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d02671621d0e5820800000000000000
+      internalID: 2908776781923623127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_15
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1215
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d847e73727dd53710800000000000000
+      internalID: 1672486320271684749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1155
+        width: 193
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dec4b2d34a62e30800000000000000
+      internalID: 4478447462092959005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1155
+        width: 258
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a228c8c300f0b30800000000000000
+      internalID: 4255620432943786550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_18
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1159
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd782143cb1bc7b0800000000000000
+      internalID: -5203034419070730819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1091
+        width: 193
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e26d1f7424c0c0b0800000000000000
+      internalID: -5710348666475289887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_20
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1091
+        width: 258
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3babccae7e7644c70800000000000000
+      internalID: 8954396204893780659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1095
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb6d0daa00088e00800000000000000
+      internalID: 1047086959216651246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_22
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1023
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51dc437d26b729d0800000000000000
+      internalID: -2799068337063276196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1023
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35014d0da2ca08290800000000000000
+      internalID: -7890117247260946349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 959
+        width: 42
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eef354d28741340800000000000000
+      internalID: 4833620435906064027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1023
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f005b09b1bc4f350800000000000000
+      internalID: 6049683518717755636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_26
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1023
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd441c294f9ec8e0800000000000000
+      internalID: -1671223275086918156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_27
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1023
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321b2561b5eb32240800000000000000
+      internalID: 4765862129113936163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_28
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1023
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25800f09c386790800000000000000
+      internalID: -7536707383204490545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1023
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065ea4a493ee5b80800000000000000
+      internalID: -8404029627069213178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_30
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 959
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233331423c76a89d0800000000000000
+      internalID: -2771288532871597262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 959
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27694995c5b4a8c0800000000000000
+      internalID: -3988863509658507478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 959
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0995b99d80cad8220800000000000000
+      internalID: 2489835323016305040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_33
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 959
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c4c37a2e3ddff90800000000000000
+      internalID: -6918140482149397503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 959
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1620394979efd8360800000000000000
+      internalID: 7173669708457247329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_35
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 959
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eb88aacf9c58810800000000000000
+      internalID: 1767040515842817662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_36
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 959
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61959d2c818e4860800000000000000
+      internalID: 7516087267188117868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 895
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab19e58aa2736740800000000000000
+      internalID: 5144081276103891872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 895
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7a9c2671cbb4600800000000000000
+      internalID: 453662996108519423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_39
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 895
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9395b38b707cd290800000000000000
+      internalID: -7864287173502725219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 895
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214e329434c641f20800000000000000
+      internalID: 3392455455562523666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_41
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 895
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78c5659d5243db30800000000000000
+      internalID: 4310862238029564029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 895
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466c8f216259be7e0800000000000000
+      internalID: -1735129240661604764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 895
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d690202c0bd10e010800000000000000
+      internalID: 1216004544396396909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 895
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eef9c6fe385af100800000000000000
+      internalID: 142523365667241697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_45
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 831
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eec1e03fdb447d50800000000000000
+      internalID: 6734090764795629289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_46
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 831
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e636002f68c5ae30800000000000000
+      internalID: 4514234581112993506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_47
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 831
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84167905e37b0b80800000000000000
+      internalID: -8427514850150312820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 831
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e32a3accb3088440800000000000000
+      internalID: 4938201100793291750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_49
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 835
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa878919dd01df150800000000000000
+      internalID: 5907896829996464303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_50
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 835
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e173130f093924f0800000000000000
+      internalID: -853087917771099676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 835
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f27b2cda13ed9ba0800000000000000
+      internalID: -6080454217377811725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_52
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 835
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e3d01c73b4b630800000000000000
+      internalID: 3941972919295664184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_53
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 771
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad4c6d22651d8dc0800000000000000
+      internalID: -3635225812805071450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_54
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 771
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00df3bd3ee3bfe4f0800000000000000
+      internalID: -797220773202494208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_55
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 771
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b00bbb7117edfb40800000000000000
+      internalID: 5475786784228704433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 771
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a90b20dd4cf9a5740800000000000000
+      internalID: 5141597592467189914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_57
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 771
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b84777abe9d80910800000000000000
+      internalID: 1803931256912038071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_58
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 771
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ba5cfdb8634980800000000000000
+      internalID: -8555879701881899046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_59
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 771
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc93ec4383fd935d0800000000000000
+      internalID: -3082187037461300787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_60
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 771
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d591c367fef8e00800000000000000
+      internalID: 1049320529294089477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_61
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 707
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb11feaf2f2e5c90800000000000000
+      internalID: -7179248874136986630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_62
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 707
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1dc5fc2c262fb70800000000000000
+      internalID: 8931309599871259074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_63
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 707
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c9471d5e1341af0800000000000000
+      internalID: -426661201562002372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 707
+        width: 58
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6807c9dab2d444070800000000000000
+      internalID: 8089675680655896710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 703
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2b00a32130b5dd0800000000000000
+      internalID: -2496398191629389148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_66
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 703
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb40890440ab8d3c0800000000000000
+      internalID: -4334510113917762369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_67
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 707
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cfa4022446c43ee0800000000000000
+      internalID: -1282181997962940473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_68
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 703
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9cda49ccc4d0c90800000000000000
+      internalID: -7202015787544098392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_69
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 639
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f794878fe24700d0800000000000000
+      internalID: -3456720592445335561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_70
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 639
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38efd8db9c93dec70800000000000000
+      internalID: 9001914768814898819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_71
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 643
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad9b5a38da5b66d0800000000000000
+      internalID: -2996201242346414683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_72
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 639
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08404cf8e89d56ba0800000000000000
+      internalID: -6096227314255526784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_73
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 639
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3925a8039d8fbb270800000000000000
+      internalID: 8267475152674640531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_74
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 639
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506fffe97d9f317f0800000000000000
+      internalID: -642895617302989307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_75
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 643
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3bef2a62d2c20460800000000000000
+      internalID: 7206536562726660924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_76
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 639
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328db613d443d46c0800000000000000
+      internalID: -4157609374846822365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_77
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 575
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2281b2b06cbbc1400800000000000000
+      internalID: 296318134764902434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_78
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 575
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68986bd9978c3620800000000000000
+      internalID: 2755226166924712043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_79
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 579
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171a42d4426583750800000000000000
+      internalID: 6284867993908584817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_80
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 575
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940f9ebb90f199080800000000000000
+      internalID: -9180272238750207927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 447
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a797ca9252b51e30800000000000000
+      internalID: 4473677872716289957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_82
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 447
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d135dd5ef23a1e190800000000000000
+      internalID: -7934881642334825699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 447
+        width: 58
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45db0aeae6849db10800000000000000
+      internalID: 2006714749183638868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_84
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 451
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0fe6b5b55826c90800000000000000
+      internalID: -7178028228652633916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 451
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76885352e5edc380800000000000000
+      internalID: -8949244124291627393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_86
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 447
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5041eb787449150800000000000000
+      internalID: 5878402061960480164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_87
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 447
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e85ec7517e740a80800000000000000
+      internalID: -8501531171299108635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_88
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 447
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9beaaead4ca09750800000000000000
+      internalID: 6309732527588961178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_89
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 447
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae66626480650a880800000000000000
+      internalID: -8601780694740998422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 383
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cedb5a83e28728c0800000000000000
+      internalID: -4024103828241785152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_91
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 383
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4180c166759473fc0800000000000000
+      internalID: -3515260344415287276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_92
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 431
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b16a8ef1dba2d110800000000000000
+      internalID: 1284277762161009075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_93
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 383
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6620bd2f6af60b0800000000000000
+      internalID: -5733180238632687942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_94
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 383
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbc683154c0ceaf0800000000000000
+      internalID: -365903978903974989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_95
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 431
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f67c607e9b9c3880800000000000000
+      internalID: -8629851681155418380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 255
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44aff1aa120d1b620800000000000000
+      internalID: 2788238487325768260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_97
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 255
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2296e38a775f20df0800000000000000
+      internalID: -215339937887786718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_98
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 58
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76da96bf45241c90800000000000000
+      internalID: -7200088879962335618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_99
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 259
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51caa0e4a6bb01460800000000000000
+      internalID: 7210469068670413845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_100
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 259
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426daf85592543790800000000000000
+      internalID: -7551319873797040604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_101
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 255
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf97c8fd0ad2ef680800000000000000
+      internalID: -8719481659574158852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_102
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 255
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe562dbc6f483910800000000000000
+      internalID: 1817289778092465904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_103
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 255
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527abaafb89c53e50800000000000000
+      internalID: 6788553616374081317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_104
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 255
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d438e020ba261a550800000000000000
+      internalID: 6170321451087725389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 191
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fc5d922ba3aab30800000000000000
+      internalID: 4299313331159027546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 191
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b844fde2b3454c30800000000000000
+      internalID: 4342951851444160693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_107
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 239
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9768f41a92408e90800000000000000
+      internalID: -7025542189153753185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_108
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 191
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6394dc0edc4271240800000000000000
+      internalID: 4762315597626034486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_109
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 191
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333a72163713dfc10800000000000000
+      internalID: 2088880173790765875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_110
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 239
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c727201c4c75f7080800000000000000
+      internalID: -9187528212249152900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_111
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 50
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f6735060c35e420800000000000000
+      internalID: 2658597151587135366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_112
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 63
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95392eebdc3e00c80800000000000000
+      internalID: -8358430435589319847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_113
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 63
+        width: 58
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed078ad6abe737880800000000000000
+      internalID: -8614402323060854562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_114
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 67
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501440fa3413548e0800000000000000
+      internalID: -1709906316748373755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_115
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 67
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557dd83bca95de8e0800000000000000
+      internalID: -1662574089148180651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_116
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 63
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8da8565974774a50800000000000000
+      internalID: 6505296251248487819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_117
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 63
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3611b60e41af57d00800000000000000
+      internalID: 969956262339613027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_118
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 63
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b575bc067bdf8d2c0800000000000000
+      internalID: -4406493271337248933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_119
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 63
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f5adc115b64b9a0800000000000000
+      internalID: -6218227189371215980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45f1bbc3fa1a8200800000000000000
+      internalID: 182988369258739018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_121
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a610be8b2b4e91e0800000000000000
+      internalID: -2189229718405900633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_122
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 47
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583d0fc3c30d2e090800000000000000
+      internalID: -8006608230372289659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_123
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadcb382794c41ec0800000000000000
+      internalID: -3597034048868069971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_124
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1b08e2d465438a0800000000000000
+      internalID: -6326336687056047634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_125
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 47
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb72b0df729ea3ff0800000000000000
+      internalID: -55475687430346818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_monsters_126
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 0
+        width: 47
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1df33652a2226b0800000000000000
+      internalID: -5322645469531221544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      All_monsters_0: 540447402597393946
+      All_monsters_1: 3132044711975325520
+      All_monsters_10: 3361189495293502372
+      All_monsters_100: -7551319873797040604
+      All_monsters_101: -8719481659574158852
+      All_monsters_102: 1817289778092465904
+      All_monsters_103: 6788553616374081317
+      All_monsters_104: 6170321451087725389
+      All_monsters_105: 4299313331159027546
+      All_monsters_106: 4342951851444160693
+      All_monsters_107: -7025542189153753185
+      All_monsters_108: 4762315597626034486
+      All_monsters_109: 2088880173790765875
+      All_monsters_11: 8618985348587194887
+      All_monsters_110: -9187528212249152900
+      All_monsters_111: 2658597151587135366
+      All_monsters_112: -8358430435589319847
+      All_monsters_113: -8614402323060854562
+      All_monsters_114: -1709906316748373755
+      All_monsters_115: -1662574089148180651
+      All_monsters_116: 6505296251248487819
+      All_monsters_117: 969956262339613027
+      All_monsters_118: -4406493271337248933
+      All_monsters_119: -6218227189371215980
+      All_monsters_12: 8799282621753178098
+      All_monsters_120: 182988369258739018
+      All_monsters_121: -2189229718405900633
+      All_monsters_122: -8006608230372289659
+      All_monsters_123: -3597034048868069971
+      All_monsters_124: -6326336687056047634
+      All_monsters_125: -55475687430346818
+      All_monsters_126: -5322645469531221544
+      All_monsters_13: 1588187978137892731
+      All_monsters_14: 2908776781923623127
+      All_monsters_15: 1672486320271684749
+      All_monsters_16: 4478447462092959005
+      All_monsters_17: 4255620432943786550
+      All_monsters_18: -5203034419070730819
+      All_monsters_19: -5710348666475289887
+      All_monsters_2: -1885580159915894089
+      All_monsters_20: 8954396204893780659
+      All_monsters_21: 1047086959216651246
+      All_monsters_22: -2799068337063276196
+      All_monsters_23: -7890117247260946349
+      All_monsters_24: 4833620435906064027
+      All_monsters_25: 6049683518717755636
+      All_monsters_26: -1671223275086918156
+      All_monsters_27: 4765862129113936163
+      All_monsters_28: -7536707383204490545
+      All_monsters_29: -8404029627069213178
+      All_monsters_3: 5005673655452636417
+      All_monsters_30: -2771288532871597262
+      All_monsters_31: -3988863509658507478
+      All_monsters_32: 2489835323016305040
+      All_monsters_33: -6918140482149397503
+      All_monsters_34: 7173669708457247329
+      All_monsters_35: 1767040515842817662
+      All_monsters_36: 7516087267188117868
+      All_monsters_37: 5144081276103891872
+      All_monsters_38: 453662996108519423
+      All_monsters_39: -7864287173502725219
+      All_monsters_4: -1154484093026828839
+      All_monsters_40: 3392455455562523666
+      All_monsters_41: 4310862238029564029
+      All_monsters_42: -1735129240661604764
+      All_monsters_43: 1216004544396396909
+      All_monsters_44: 142523365667241697
+      All_monsters_45: 6734090764795629289
+      All_monsters_46: 4514234581112993506
+      All_monsters_47: -8427514850150312820
+      All_monsters_48: 4938201100793291750
+      All_monsters_49: 5907896829996464303
+      All_monsters_5: -8305677196284866
+      All_monsters_50: -853087917771099676
+      All_monsters_51: -6080454217377811725
+      All_monsters_52: 3941972919295664184
+      All_monsters_53: -3635225812805071450
+      All_monsters_54: -797220773202494208
+      All_monsters_55: 5475786784228704433
+      All_monsters_56: 5141597592467189914
+      All_monsters_57: 1803931256912038071
+      All_monsters_58: -8555879701881899046
+      All_monsters_59: -3082187037461300787
+      All_monsters_6: 3772578298264598748
+      All_monsters_60: 1049320529294089477
+      All_monsters_61: -7179248874136986630
+      All_monsters_62: 8931309599871259074
+      All_monsters_63: -426661201562002372
+      All_monsters_64: 8089675680655896710
+      All_monsters_65: -2496398191629389148
+      All_monsters_66: -4334510113917762369
+      All_monsters_67: -1282181997962940473
+      All_monsters_68: -7202015787544098392
+      All_monsters_69: -3456720592445335561
+      All_monsters_7: -6845930718004317362
+      All_monsters_70: 9001914768814898819
+      All_monsters_71: -2996201242346414683
+      All_monsters_72: -6096227314255526784
+      All_monsters_73: 8267475152674640531
+      All_monsters_74: -642895617302989307
+      All_monsters_75: 7206536562726660924
+      All_monsters_76: -4157609374846822365
+      All_monsters_77: 296318134764902434
+      All_monsters_78: 2755226166924712043
+      All_monsters_79: 6284867993908584817
+      All_monsters_8: -1688228508658274391
+      All_monsters_80: -9180272238750207927
+      All_monsters_81: 4473677872716289957
+      All_monsters_82: -7934881642334825699
+      All_monsters_83: 2006714749183638868
+      All_monsters_84: -7178028228652633916
+      All_monsters_85: -8949244124291627393
+      All_monsters_86: 5878402061960480164
+      All_monsters_87: -8501531171299108635
+      All_monsters_88: 6309732527588961178
+      All_monsters_89: -8601780694740998422
+      All_monsters_9: -8968986085810514078
+      All_monsters_90: -4024103828241785152
+      All_monsters_91: -3515260344415287276
+      All_monsters_92: 1284277762161009075
+      All_monsters_93: -5733180238632687942
+      All_monsters_94: -365903978903974989
+      All_monsters_95: -8629851681155418380
+      All_monsters_96: 2788238487325768260
+      All_monsters_97: -215339937887786718
+      All_monsters_98: -7200088879962335618
+      All_monsters_99: 7210469068670413845
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
