@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8fd7b67b4d5b644888d37c633f269bb, type: 3}
   m_Name: Enemy_Crawler
   m_EditorClassIdentifier: 
-  lives: 3
-  damage: 2
-  speed: 6
+  lives: 30
+  damage: 3
+  speed: 2

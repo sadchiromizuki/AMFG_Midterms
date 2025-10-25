@@ -11,8 +11,8 @@ public class UIController : MonoBehaviour
     {
         Spawner.OnWaveChanged += UpdateWaveText;
         GameManager.OnLivesChanged += UpdateLivesText;
-    } 
-    
+    }
+
     private void OnDisable()
     {
         Spawner.OnWaveChanged -= UpdateWaveText;
@@ -23,7 +23,7 @@ public class UIController : MonoBehaviour
     {
         waveText.text = $"Wave: {currentWave + 1}";
     }
-    
+
     private void UpdateLivesText(int currentLives)
     {
         livesText.text = $"Lives: {currentLives}";

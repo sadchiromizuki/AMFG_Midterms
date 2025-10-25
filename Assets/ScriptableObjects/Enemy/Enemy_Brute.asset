@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8fd7b67b4d5b644888d37c633f269bb, type: 3}
   m_Name: Enemy_Brute
   m_EditorClassIdentifier: 
-  lives: 2
-  damage: 1
-  speed: 8
+  lives: 100
+  damage: 3
+  speed: 1

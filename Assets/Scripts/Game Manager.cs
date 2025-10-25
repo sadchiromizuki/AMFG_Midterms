@@ -11,10 +11,10 @@ public class GameManager : MonoBehaviour
     {
         Enemy.OnEnemyReachedEnd += HandleEnemyReachedEnd;
     }
-    
+
     private void OnDisable()
     {
-        Enemy.OnEnemyReachedEnd -= HandleEnemyReachedEnd; ;
+        Enemy.OnEnemyReachedEnd -= HandleEnemyReachedEnd;
     }
 
     private void Start()
@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
 
     private void HandleEnemyReachedEnd(EnemyData data)
     {
-        _lives -= Mathf.Max(0, _lives - data.damage);
+        _lives = Mathf.Max(0, _lives - data.damage);
         OnLivesChanged?.Invoke(_lives);
     }
 }
